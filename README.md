@@ -7,7 +7,7 @@ This project has Express backend with TypeORM framework for database. This runs 
 #### Technologies
 
 - **Environment:** NodeJS
-- **Framework:** Express
+- **Framework:** Express 
 - **Language:** Typescript
 - **ORM:** TypeORM
 - **Database:** MySQL
@@ -40,3 +40,10 @@ Server comes online on 3000 port by default
 - **Routing:** React-Router-Dom
 - **Styling:** bootstrap
 - **http** axios
+
+################################
+Clone the repo and repo client folder
+
+npm start 
+
+################################
